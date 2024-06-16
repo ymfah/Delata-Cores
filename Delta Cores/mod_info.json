@@ -1,0 +1,14 @@
+{
+    "id":"ymfah_JBOD", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"Delta Cores", # Displayed to the player
+	"author":"ymfah",
+    "utility":"false",
+	"version":"1.0.0",
+	"description":"Adds delta AI cores that contribute a 0x multiplier to the automated ship penalty.",
+    "gameVersion": "0.97a-RC11",
+  	"jars":["jars/JBOD.jar"],
+  	"modPlugin":"ymfah.JBOD.JBOD",
+	  	"dependencies": [
+        
+    ],
+}
